@@ -8,9 +8,9 @@
         }
     },
     "stock": {
-        "cartones_tam_mediano": 0,
+        "cartones_tam_mediano": 20,
         "cartones_tam_grande": 120,
-        "cartones_tam_extragrande": 0,
-        "cartones_tam_jumbo": 0
+        "cartones_tam_extragrande": 41,
+        "cartones_tam_jumbo": 18
     }
 }
